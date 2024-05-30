@@ -2,7 +2,7 @@
 - This fork keeps the library compatible with Java 11
 - This was forked from another fork, which keeps the library compilable
 
-React Native Module that broadcasts an iBeacon uuid.
+# React Native Module that broadcasts an iBeacon uuid.
 
 # Setup
 
